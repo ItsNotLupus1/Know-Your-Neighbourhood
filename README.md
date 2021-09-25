@@ -1,5 +1,4 @@
 # Know Your Neighbourhood
-#
 ### Know your Neighbourhood Web Application is a store locator web application
 #
 ## How to use this web application
